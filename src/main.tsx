@@ -13,7 +13,7 @@ const routes = createBrowserRouter([
     element: <App />,
     children: [
       {
-        path: "home",
+        path: "landing-page-matheus",
         element: <Home />
       },
       {
