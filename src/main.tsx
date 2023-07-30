@@ -13,12 +13,15 @@ const routes = createBrowserRouter([
     element: <App />,
     children: [
       {
-        path: "/landing-page-matheus",
+        path: "home",
         element: <Home />
       },
       {
         path: "projects",
         element: <Projects />
+      },
+      {
+        path: "about"
       }
     ]
   }
