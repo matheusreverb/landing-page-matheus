@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@300;400;500;700;900&display=swap');
+
+.bg-main-image {
+  background-image: url(./images/download-page-bg.png);
+  background-repeat: no-repeat;
+}
+
+.main-title {
+  font-family: 'Prompt', sans-serif;
+  font-weight: 900;
+}
+
+.sub-title {
+  font-family: 'Prompt', sans-serif;
+  font-weight: 700;
+}
+
+.navbar-font {
+  font-family: 'Prompt', sans-serif;
+  font-weight: 500;
+}
