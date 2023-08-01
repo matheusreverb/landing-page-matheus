@@ -9,11 +9,11 @@ import Home from "./routes/Home";
 
 const routes = createBrowserRouter([
   {
-    path: "/landing-page-matheus/home", 
+    path: "/landing-page-matheus", 
     element: <App />,
     children: [
       {
-        path: "/home",
+        path: "/landing-page-matheus",
         element: <Home />
       },
       {
